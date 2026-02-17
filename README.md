@@ -41,7 +41,7 @@ A simple, clean Android task management app that lets users create, view, edit, 
   **Update Task screen**
   ![Update Task screen](assets/Update%20Task.png) 
 
-  ** Delete Task**
+  **Delete Task**
   ![Delete Task](assets/Delete%20Task.png)
 
   **Required Task**
@@ -50,16 +50,16 @@ A simple, clean Android task management app that lets users create, view, edit, 
    ### Rotation Screenshots
 
   **Rotaction Task list screen**
-  ![Rotaction Task list screen](assets/Rotaction Task List.png) 
+  ![Rotaction Task list screen](assets/Rotaction%20Add%20task.png)) 
 
   **Rotaction Add new task screen**
-  ![Rotaction Add new task screen](assets/Rotaction Addtask.png)
+  ![Rotaction Add new task screen](assets/Rotaction%20Addtask.png)
 
   **Rotaction Update Task screen**
-  ![Rotaction Update Task screen](assets/Rotaction Update task.png)
+  ![Rotaction Update Task screen](assets/Rotaction%20Update%20task.png)
 
   ** Rotaction Delete Task screen**
-  ![Rotaction Delete Task screen](assets/Rotaction Delete task.png)
+  ![Rotaction Delete Task screen](assets/Rotaction%20Delete%20task.png)
 
 
 ---
