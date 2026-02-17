@@ -54,7 +54,7 @@ A simple, clean Android task management app that lets users create, view, edit, 
 ![Rotation Task List](assets/Rotaction%20Add%20task.png)
 
 **Rotation add new task screen**  
-![Rotation Add Task](assets/Rotaction%20Addtask.png)
+![Rotation Add Task](assets/Rotaction%20Add%20task.png)
 
 **Rotation update task screen**  
 ![Rotation Update Task](assets/Rotaction%20Update%20task.png)
