@@ -29,21 +29,20 @@ A simple, clean Android task management app that lets users create, view, edit, 
 
 ## Screenshots
 
-> Add 2–3 screenshots of your running app here
-> 
+
 ### Portrait Screenshots
 
-1.  ![Task list screen](assets/TaskList.png) — Task list screen
-2.  ![Add new task screen](assets/Add Task .jpeg)  — Add new task screen
-3.  ![Update Task screen](assets/Update Task.jpeg) — Update Task screen
-4.  ![Delete Task](assets/Delete Task.png.jpeg) — Delete Task
+1.  ![Task list screen](assets/Task List.png) — Task list screen
+2.  ![Add new task screen](assets/Add Task .png)  — Add new task screen
+3.  ![Update Task screen](assets/Update Task.png) — Update Task screen
+4.  ![Delete Task](assets/Delete Task.png) — Delete Task
 
    ### Rotation Screenshots
 
-1.  ![Rotaction Task list screen](assets/Rotaction Task List.jpeg) — Rotaction Task list screen
-2.  ![Rotaction Add new task screen](assets/Rotaction Add task.jpeg)  — Rotaction Add new task screen
-3.  ![Rotaction Update Task screen](assets/Rotaction Update task.jpeg) — Rotaction Update Task screen
-4.  ![Rotaction Delete Task screen](assets/Rotaction Delete task.jpeg) — Rotaction Delete Task screen
+1.  ![Rotaction Task list screen](assets/Rotaction Task List.png) — Rotaction Task list screen
+2.  ![Rotaction Add new task screen](assets/Rotaction Add task.png)  — Rotaction Add new task screen
+3.  ![Rotaction Update Task screen](assets/Rotaction Update task.png) — Rotaction Update Task screen
+4.  ![Rotaction Delete Task screen](assets/Rotaction Delete task.png) — Rotaction Delete Task screen
 
 
 ---
@@ -140,3 +139,6 @@ TaskManager/
 │           └── themes.xml
 └── README.md
 ```
+### Student ID & Name
+- Student Id = 11174
+- Student Name = H A U P Kumarasinghe
