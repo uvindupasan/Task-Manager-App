@@ -33,7 +33,7 @@ A simple, clean Android task management app that lets users create, view, edit, 
 > 
 ### Portrait Screenshots
 
-1.  ![Task list screen](assets/Task List.jpeg) — Task list screen
+1.  ![Task list screen](assets/TaskList.png) — Task list screen
 2.  ![Add new task screen](assets/Add Task .jpeg)  — Add new task screen
 3.  ![Update Task screen](assets/Update Task.jpeg) — Update Task screen
 4.  ![Delete Task](assets/Delete Task.png.jpeg) — Delete Task
