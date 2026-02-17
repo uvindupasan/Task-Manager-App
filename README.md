@@ -45,7 +45,7 @@ A simple, clean Android task management app that lets users create, view, edit, 
   ![Delete Task](assets/Delete%20Task.png)
 
   **Required Task**
-  ![Required Task](assets/Required%20Task.png)
+  ![Required Task](assets/Required.png)
 
    ### Rotation Screenshots
 
